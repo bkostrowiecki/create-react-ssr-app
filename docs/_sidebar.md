@@ -1,4 +1,4 @@
-* [Home](README.md)
+* [Home](home.md)
 * [Adding a css modules stylesheet](adding-a-css-modules-stylesheet.md)
 * [Adding a sass stylesheet](adding-a-sass-stylesheet.md)
 * [Adding a stylesheet](adding-a-stylesheet.md)
